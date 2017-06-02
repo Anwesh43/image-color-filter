@@ -1,6 +1,6 @@
 {
   "name": "image-color-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "saving images with color filter",
   "main": "index.js",
   "scripts": {
