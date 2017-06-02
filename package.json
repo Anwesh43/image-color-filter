@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.5",
+    "image-saver-nodejs": "^1.0.3"
+  }
 }
