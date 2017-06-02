@@ -1,13 +1,27 @@
 {
   "name": "image-color-filter",
   "version": "1.0.0",
-  "description": "",
+  "description": "saving images with color filter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Anwesh43/Anwesh43/image-color-filter"
+  },
+  "keywords":[
+  "image",
+  "base64",
+  "local file system",
+  "file",
+  "png",
+  "color filter",
+  "saving image"
+  ],
+  "author":"Anwesh Mishra",
   "dependencies": {
     "canvas": "^1.6.5",
     "image-saver-nodejs": "^1.0.3"
